@@ -15,3 +15,7 @@ En si, es un desafio super simple, y lo que hice fué copiar el diseño del Comp
 
 - GitHub - [@ivan2600] (https://github.com/ivan2600)
 - Mentor de frontend - [@ivan2600] (https://www.frontendmentor.io/profile/ivan2600)
+
+## Link 
+
+https://ivan2600.github.io/FM001-qr-code/
